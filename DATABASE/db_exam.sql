@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 20, 2022 at 09:00 AM
+-- Generation Time: Jan 20, 2022 at 09:11 AM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 7.3.28
 
@@ -127,7 +127,7 @@ CREATE TABLE `tbl_user` (
 --
 
 INSERT INTO `tbl_user` (`userid`, `name`, `username`, `password`, `email`, `status`) VALUES
-(5, 'Ali Raza', 'Tawary', '202cb962ac59075b964b07152d234b70', 'alirazatawry@gmail.com', 1),
+(5, 'Ali Raza', 'Tawary', '202cb962ac59075b964b07152d234b70', 'alirazatawry@gmail.com', 0),
 (6, 'Mohsin', 'Mohsin', '202cb962ac59075b964b07152d234b70', 'alirazatawary@gmail.com', 0);
 
 --
